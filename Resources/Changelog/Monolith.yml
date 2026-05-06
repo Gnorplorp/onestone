@@ -20895,3 +20895,10 @@ Entries:
   id: 2301
   time: '2026-05-06T22:18:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3939
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: A few more optimizations
+  id: 2302
+  time: '2026-05-06T22:28:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3962
