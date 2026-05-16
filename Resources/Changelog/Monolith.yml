@@ -21040,3 +21040,10 @@ Entries:
   id: 2320
   time: '2026-05-16T01:03:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3998
+- author: GOLDMASK990
+  changes:
+    - type: Fix
+      message: USSP Language Implanters now print correctly
+  id: 2321
+  time: '2026-05-16T01:04:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3996
