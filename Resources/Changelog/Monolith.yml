@@ -21430,3 +21430,10 @@ Entries:
   id: 2362
   time: '2026-06-07T15:23:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4092
+- author: Mapleflavoureds
+  changes:
+    - type: Fix
+      message: Actually removed rad immune suits
+  id: 2363
+  time: '2026-06-07T15:23:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4079
