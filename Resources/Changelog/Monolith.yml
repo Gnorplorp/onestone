@@ -21437,3 +21437,10 @@ Entries:
   id: 2363
   time: '2026-06-07T15:23:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4079
+- author: The-Aisen
+  changes:
+    - type: Fix
+      message: Atmosphere aboard the NOV-Rosetta should now work properly
+  id: 2364
+  time: '2026-06-08T09:33:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4080
